@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://suryansht9.netlify.app/](https://suryansht9.netlify.app/)
 
-- 📝 I regularly write articles on [Demanding of Artificial Intelligence](Demanding of Artificial Intelligence)
+- 📝 I regularly write articles on [Demanding of Artificial Intelligence]
 
 - 📫 How to reach me **suryanshtripathi778@gmail.com**
 
