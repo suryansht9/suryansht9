@@ -14,7 +14,9 @@
 
 - 📫 How to reach me **suryanshtripathi778@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡fact **Once debugged a production bug while hiking a mountain!”
+it mean'
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
