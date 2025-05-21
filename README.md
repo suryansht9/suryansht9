@@ -45,10 +45,11 @@
 
 ### 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/suryansht9/suryansht9/blob/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryansht9/suryansht9/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryansht9/suryansht9/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/suryansht9/suryansht9/output/github-snake.svg" />
+</picture>
 
 ---
 
