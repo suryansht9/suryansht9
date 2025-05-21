@@ -1,7 +1,6 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://github.com/suryansht9/suryansht9/blob/main/Github%20banner.png" alt="Banner" />
-</p>
+![logo](https://github.com/suryansht9/suryansht9/blob/main/Github%20banner.png.png)
+
 
 <h1 align="center">Hi 👋, I'm Suryansh Tripathi</h1>
 <h3 align="center">A passionate Data Science student from India</h3>
