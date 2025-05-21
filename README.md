@@ -1,6 +1,7 @@
 <!-- Banner -->
-![logo](https://github.com/suryansht9/suryansht9/blob/main/Github%20banner.png.png)
-
+<p align="center">
+  <img src="https://github.com/suryansht9/suryansht9/blob/main/Github%20banner.png" alt="Banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Suryansh Tripathi</h1>
 <h3 align="center">A passionate Data Science student from India</h3>
@@ -13,20 +14,10 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Python, C Programming, MySQL, HTML, CSS, JavaScript**
-- 👨‍💻 My Portfolio: [suryansht9.netlify.app](https://suryansht9.netlify.app/)
-- 📝 I write about **Artificial Intelligence** and tech trends
+- 🌱 Currently learning **Python, C Programming, MySQL, HTML, CSS, JavaScript**
+- 📝 Passionate about writing on **Artificial Intelligence and tech innovation**
 - 📫 Reach me at **suryanshtripathi778@gmail.com**
 - ⚡ **Fun fact:** Once debugged a production bug while hiking a mountain! 🏔️🐞
-
----
-
-### 🚀 My Developer Journey
-
-- 💡 Started with **C & Python**
-- 🔍 Building cool things with **HTML, CSS & JS**
-- 📊 Exploring the world of **Data Science & Analytics**
-- 🧑‍🎓 Constantly improving my **Full Stack & ML skills**
 
 ---
 
@@ -43,23 +34,7 @@
 
 ---
 
-### 🌟 Featured Projects
-
-- 🧮 [Student Result Calculator](https://github.com/...) – HTML/CSS/JS
-- 📊 [Sales Data Analysis](https://github.com/...) – Using Pandas & Python
-- 📝 [AI Blog Series](https://medium.com/@suryanshtripathi778) – Thoughts on tech & AI
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suryansht9&theme=dracula&row=1&margin-w=15&margin-h=15" />
-</p>
-
----
-
-### 📊 GitHub Stats
+### 🔥 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suryansht9&show_icons=true&theme=tokyonight" alt="Suryansh's GitHub Stats" />
@@ -69,10 +44,10 @@
 
 ---
 
-### 🔥 GitHub Streak
+### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryansht9&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github.com/suryansht9/suryansht9/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
@@ -93,8 +68,7 @@
 
 ---
 
-<!-- Optional: Snake contribution animation -->
-<!-- 
-![Snake animation](https://github.com/suryansht9/suryansht9/blob/output/github-contribution-grid-snake.svg) 
--->
+> 💬 *"Data is the new oil — and I’m refining it one line of code at a time."* 🔥
+
+---
 
