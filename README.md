@@ -17,6 +17,7 @@
 - 📝 Passionate about writing on **Artificial Intelligence and tech innovation**
 - 📫 Reach me at **suryanshtripathi778@gmail.com**
 - ⚡ **Fun fact:** Once debugged a production bug while hiking a mountain! 🏔️🐞
+- - 👨‍💻 All of my projects are available at [https://suryansht9.netlify.app/](https://suryansht9.netlify.app/)
 
 ---
 
