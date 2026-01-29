@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/suryansht9/suryansht9/main/Github%20banner.png" alt="Suryansh Tripathi Banner" />
+  <img src="https://raw.githubusercontent.com/suryansht9/suryansht9/main/Github banner.png.png" alt="Suryansh Tripathi Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Suryansh Tripathi</h1>
