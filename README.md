@@ -1,76 +1,95 @@
-<!-- Banner -->
-![logo](https://github.com/suryansht9/suryansht9/blob/main/Github%20banner.png.png)
-
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suryansht9/suryansht9/main/Github%20banner.png" alt="Suryansh Tripathi Banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Suryansh Tripathi</h1>
-<h3 align="center">A passionate Data Science student from India</h3>
+<h3 align="center">🚀 Data Science Student | AI Enthusiast | Tech Explorer</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryansht9&label=Profile%20views&color=0e75b6&style=flat" alt="suryansht9" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suryansht9&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
+
+<!-- ===================== HERO ===================== -->
+<img align="right" alt="Coding" width="420"
+src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently learning **Python, C Programming, MySQL, HTML, CSS, JavaScript**
-- 📝 Passionate about writing on **Artificial Intelligence and tech innovation**
-- 📫 Reach me at **suryanshtripathi778@gmail.com**
-- ⚡ **Fun fact:** Once debugged a production bug while hiking a mountain! 🏔️🐞
-- - 👨‍💻 All of my projects are available at [https://suryansht9.netlify.app/](https://suryansht9.netlify.app/)
+- 🎓 Data Science student from **India**
+- 🌱 Learning **Python, Java, C, MySQL, HTML, CSS, JavaScript**
+- 🧠 Interested in **AI, ML & Data Analytics**
+- ✍️ Writes about **Artificial Intelligence & Tech Innovation**
+- 🌐 Portfolio: [https://suryansht9.netlify.app](https://suryansht9.netlify.app)
+- 📫 Email: **suryanshtripathi778@gmail.com**
+- ⚡ Fun fact: *Debugged a production bug while hiking a mountain* 🏔️🐞
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
+#### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🌐 Web & Database
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 📊 Data Science Tools
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🔥 GitHub Stats
+### 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryansht9&show_icons=true&theme=tokyonight" alt="Suryansh's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansht9&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=suryansht9&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansht9&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryansht9&theme=tokyonight" />
 </p>
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryansht9/suryansht9/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryansht9/suryansht9/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/suryansht9/suryansht9/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/suryansht9/suryansht9/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/suryansht9/suryansht9/output/github-snake.svg" />
+  <img alt="github-snake"
+    src="https://raw.githubusercontent.com/suryansht9/suryansht9/output/github-snake.svg" />
 </picture>
 
 ---
 
-### 🌍 Connect with Me
+### 🌍 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/suryansht910" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suryansht910" height="30" width="40" />
+  <a href="https://twitter.com/suryansht910">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/suryansh-tripathi-5b3384242/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/suryansh-tripathi-5b3384242/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
   </a>
-  <a href="https://instagram.com/suryansh_tripathii" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://instagram.com/suryansh_tripathii">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
   </a>
 </p>
 
 ---
 
-> 💬 *"Data is the new oil — and I’m refining it one line of code at a time."* 🔥
-
----
-
+<p align="center">
+  <i>"Data is the new oil — and I’m refining it one line of code at a time."</i> 🔥
+</p>
