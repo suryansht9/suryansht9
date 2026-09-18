@@ -1,95 +1,174 @@
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/suryansht9/suryansht9/main/Github banner.png.png" alt="Suryansh Tripathi Banner" />
+<div align="center">
+
+# Hey, I'm Suryansh Tripathi 👋
+
+### `BCA (Data Science) Student` · `AI/ML Explorer` · `Builder in Progress`
+
+<p>
+  <a href="https://suryansht9.netlify.app">Portfolio</a> •
+  <a href="mailto:suryanshtripathi778@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/suryansh-tripathi-5b3384242/">LinkedIn</a> •
+  <a href="https://twitter.com/suryansht910">Twitter</a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Suryansh Tripathi</h1>
-<h3 align="center">🚀 Data Science Student | AI Enthusiast | Tech Explorer</h3>
+<img src="https://komarev.com/ghpvc/?username=suryansht9&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suryansht9&label=Profile%20Views&color=0e75b6&style=flat" />
+</div>
+
+---
+
+## 🧠 A little about me
+
+```python
+class SuryanshTripathi:
+    role = "BCA (Data Science) Student"
+    location = "India"
+    focus = ["Artificial Intelligence", "Machine Learning", "Data Analytics"]
+    currently_learning = ["Python", "Java", "C", "MySQL", "JavaScript"]
+    building = "Projects that turn ideas into useful experiences"
+    mindset = "Learn → Build → Break → Debug → Improve"
+```
+
+I'm a curious data science student who enjoys exploring how **code, data, and artificial intelligence** can solve real-world problems.
+
+- 🎓 Studying **BCA with a focus on Data Science**
+- 🌱 Strengthening my foundations in programming, databases, and web development
+- 🤖 Exploring **AI, ML, analytics, and technology innovation**
+- ✍️ Interested in writing and sharing ideas about **AI and emerging technology**
+- 🏔️ Fun fact: I once debugged a production bug while hiking a mountain
+
+> **My goal:** Keep learning in public, build meaningful projects, and become the kind of developer who turns complex problems into simple solutions.
+
+---
+
+## ⚡ Tech constellation
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript" alt="Languages"/>
+</p>
+
+### Web & databases
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,mysql" alt="Web and database technologies"/>
+</p>
+
+### Data & developer tools
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,git,github,vscode" alt="Data and developer tools"/>
 </p>
 
 ---
 
-<!-- ===================== HERO ===================== -->
-<img align="right" alt="Coding" width="420"
-src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+## 🚀 What I'm working toward
 
-### 👨‍💻 About Me
+<table>
+  <tr>
+    <td width="50%">
 
-- 🎓 Data Science student from **India**
-- 🌱 Learning **Python, Java, C, MySQL, HTML, CSS, JavaScript**
-- 🧠 Interested in **AI, ML & Data Analytics**
-- ✍️ Writes about **Artificial Intelligence & Tech Innovation**
-- 🌐 Portfolio: [https://suryansht9.netlify.app](https://suryansht9.netlify.app)
-- 📫 Email: **suryanshtripathi778@gmail.com**
-- ⚡ Fun fact: *Debugged a production bug while hiking a mountain* 🏔️🐞
+### 📊 Data Analytics
+Turning raw data into patterns, insights, and decisions.
 
----
+    </td>
+    <td width="50%">
 
-### 🛠️ Tech Stack
+### 🤖 Artificial Intelligence
+Understanding intelligent systems and practical AI applications.
 
-#### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
 
-#### 🌐 Web & Database
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### 🧩 Problem Solving
+Improving logic through programming and consistent practice.
 
-#### 📊 Data Science Tools
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+    </td>
+    <td width="50%">
 
----
+### 🌐 Digital Building
+Creating clean, useful, and accessible web experiences.
 
-### 📊 GitHub Dashboard
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=suryansht9&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansht9&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryansht9&theme=tokyonight" />
-</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🐍 Contribution Snake
+## 📈 GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=suryansht9&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170" alt="Suryansh's GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansht9&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=suryansht9&hide_border=true&theme=transparent" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## 🐍 Contribution journey
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/suryansht9/suryansht9/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/suryansht9/suryansht9/output/github-snake.svg" />
-  <img alt="github-snake"
-    src="https://raw.githubusercontent.com/suryansht9/suryansht9/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryansht9/suryansht9/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryansht9/suryansht9/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/suryansht9/suryansht9/output/github-snake.svg">
 </picture>
 
----
-
-### 🌍 Connect With Me
-
-<p align="left">
-  <a href="https://twitter.com/suryansht910">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/suryansh-tripathi-5b3384242/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>
-  <a href="https://instagram.com/suryansh_tripathii">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>"Data is the new oil — and I’m refining it one line of code at a time."</i> 🔥
-</p>
+## 🧭 My learning roadmap
+
+- [x] Start the journey in Data Science
+- [x] Build foundations in Python, C, Java, HTML, CSS, and JavaScript
+- [x] Explore databases with MySQL
+- [x] Practice data manipulation with NumPy and Pandas
+- [ ] Build and publish practical data science projects
+- [ ] Explore machine learning workflows end-to-end
+- [ ] Create AI-powered applications
+- [ ] Share more technical writing and experiments
+
+---
+
+## 🌍 Let's connect
+
+<div align="center">
+
+<a href="https://suryansht9.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:suryanshtripathi778@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/suryansh-tripathi-5b3384242/">
+  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/suryansht910">
+  <img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://instagram.com/suryansh_tripathii">
+  <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ One line I code by
+
+> *"Data becomes powerful when curiosity turns it into understanding."*
+
+<br/>
+
+**Thanks for visiting — keep exploring, keep building, keep shipping. 🚀**
+
+</div>
