@@ -1,6 +1,5 @@
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PROFILE HEADER                              -->
+<!--                         PROFILE HEADER                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -9,7 +8,7 @@
 
 ### BCA Data Science Student | Developer | Tech Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;BCA+Data+Science+Student;Python+%7C+Java+%7C+C+Developer;Frontend+%26+Automation+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;BCA+Data+Science+Student;Python+%7C+Java+%7C+C+Developer;Frontend+%26+Automation+Enthusiast;Exploring+AI+%26+Data+Analytics;Always+Learning+Something+New!" alt="Typing SVG" />
 
 <p>
   <a href="YOUR_PORTFOLIO_URL">
@@ -23,38 +22,39 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00BFFF&style=flat-square" alt="Profile Views"/>
-
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                                -->
+<!--                           ABOUT ME                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🧑‍💻 About Me
 
 Hi! I'm **Suryansh Tripathi**, a passionate **BCA Data Science student at the University of Allahabad**.
 
-I'm interested in software development, data analytics, artificial intelligence, automation, and building practical projects that solve real-world problems.
+I enjoy exploring technology, learning programming, understanding data, and developing solutions that connect creativity with logic.
 
-- 🎓 Currently pursuing **BCA in Data Science**
-- 💻 Learning and working with **Python, Java, and C**
+I'm currently expanding my knowledge across software development, data analytics, artificial intelligence, automation, and modern web technologies.
+
+- 🎓 Pursuing **BCA in Data Science**
+- 💻 Working with **Python, Java, and C**
 - 🌐 Exploring **HTML, CSS, JavaScript, and React.js**
-- 📊 Interested in **Data Analytics, AI, and Machine Learning**
-- ⚙️ Exploring **Google Apps Script and workflow automation**
-- 📱 Learning Android development with **Android Studio**
-- 🔧 Using Git, GitHub, and VS Code in my development workflow
+- 📊 Learning **Pandas, NumPy, MySQL, and Data Analytics**
+- 🤖 Exploring **Artificial Intelligence and Machine Learning**
+- ⚙️ Interested in **Google Apps Script and Automation**
+- 📱 Exploring Android development with **Android Studio**
+- 🔧 Using **Git, GitHub, and VS Code**
 - ✍️ Interested in writing about technology and artificial intelligence
-- 🚀 Improving my coding and problem-solving skills every day
+- 🚀 Continuously improving my coding and problem-solving skills
 
-> "Learning never stops. Every project is another step toward becoming a better developer."
+> "Learning never stops. Every challenge is an opportunity to grow."
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     TECHNOLOGY STACK                           -->
+<!--                         TECHNOLOGY STACK                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
@@ -91,96 +91,90 @@ I'm interested in software development, data analytics, artificial intelligence,
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      LEARNING JOURNEY                          -->
+<!--                       LEARNING JOURNEY                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📚 My Learning Journey
 
-| Stage | Focus |
+| Area | What I'm Exploring |
 |---|---|
-| 🎓 BCA Foundation | Programming fundamentals and problem solving |
-| 💻 Development | HTML, CSS, JavaScript, and frontend development |
+| 🎓 BCA Data Science | Programming, data, and analytical thinking |
 | 🐍 Programming | Python, Java, and C |
+| 🌐 Web Development | HTML, CSS, JavaScript, and React.js |
 | 📊 Data Science | Pandas, NumPy, MySQL, and data analytics |
-| ⚛️ Modern Web | React.js and interactive interfaces |
+| 🤖 Artificial Intelligence | AI and machine learning concepts |
 | ⚙️ Automation | Google Apps Script and workflow automation |
-| 📱 Android | Android Studio and mobile application development |
-| 🚀 Current Focus | Building projects and improving technical skills |
+| 📱 Android Development | Android Studio and mobile development |
+| 🔧 Developer Workflow | Git, GitHub, VS Code, and collaboration |
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         PROJECTS                                -->
+<!--                       BEYOND THE CODE                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects
+## 🌟 Beyond the Code
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🏦 Bank Management System
+## 🧠 Curious Mind
 
-A C-based project designed to explore basic banking operations, user interaction, and programming logic.
-
-**Tech:** C
+I enjoy understanding how things work and exploring new concepts in technology.
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🧮 Calculator
+## 🔍 Problem Solver
 
-A simple calculator project focused on user interaction, calculations, and frontend development concepts.
-
-**Tech:** HTML, CSS, JavaScript
+I like breaking complex problems into smaller, understandable steps.
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 💰 Expense Tracker
+## ⚡ Automation Explorer
 
-A project concept for tracking expenses and managing personal financial records.
-
-**Tech:** HTML, CSS, JavaScript
+I'm interested in using technology to simplify repetitive tasks and improve workflows.
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🧠 Quiz Application
+## 📖 Continuous Learner
 
-An interactive quiz project created to practice logic, user interaction, and web development.
-
-**Tech:** HTML, CSS, JavaScript
+I believe consistent learning and practice are the foundation of growth.
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🍽️ Restaurant Website
+## ✍️ Tech Writer
 
-A website project focused on layout, presentation, and responsive web design.
-
-**Tech:** HTML, CSS, JavaScript
+I enjoy exploring and writing about artificial intelligence and technology.
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🧳 Trip Budget Planner
+## 🤝 Collaboration
 
-A project concept for planning travel expenses and estimating a trip budget.
-
-**Tech:** Web Development
+I'm open to learning from others and collaborating on meaningful ideas.
 
 </td>
 </tr>
 </table>
 
-> 🚧 More projects and improvements are coming soon!
+### 🎯 My Current Mission
+
+```text
+Learn → Practice → Build → Reflect → Improve → Repeat
+```
+
+My goal is to strengthen my technical foundation, develop useful solutions, and become a more confident and capable developer.
 
 ---
 
@@ -192,26 +186,26 @@ A project concept for planning travel expenses and estimating a trip budget.
 
 ```text
 🐍 Python                  ███████████████░░░░░
-☕ Java                   ████████████░░░░░░░░
-💻 C                      ████████████░░░░░░░░
-🌐 Web Development        ██████████████░░░░░░
-⚛️ React.js               ██████████░░░░░░░░░░░
-📊 Data Analytics         ███████████░░░░░░░░░
-🤖 AI & Machine Learning  █████████░░░░░░░░░░░░
-⚙️ Automation             ███████████░░░░░░░░░
-📱 Android Development    ████████░░░░░░░░░░░░░
+☕ Java                    ████████████░░░░░░░░
+💻 C                       ████████████░░░░░░░░
+🌐 Web Development         ██████████████░░░░░░
+⚛️ React.js                ██████████░░░░░░░░░░░
+📊 Data Analytics          ███████████░░░░░░░░░
+🤖 AI & Machine Learning   █████████░░░░░░░░░░░░
+⚙️ Automation              ███████████░░░░░░░░░
+📱 Android Development     ████████░░░░░░░░░░░░░
 ```
 
-My current learning interests include:
+### 📌 My Learning Goals
 
-- Building practical Python projects
-- Understanding data analysis workflows
-- Exploring artificial intelligence and machine learning
-- Creating responsive websites
-- Learning React.js
-- Automating repetitive tasks
-- Improving my Git and GitHub workflow
-- Developing better problem-solving skills
+- Strengthen my Python programming skills
+- Understand data analysis workflows
+- Explore artificial intelligence and machine learning
+- Build responsive and interactive websites
+- Improve my React.js knowledge
+- Learn practical automation techniques
+- Improve my Git and GitHub workflow
+- Develop better problem-solving abilities
 
 ---
 
@@ -223,22 +217,22 @@ My current learning interests include:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CONTRIBUTION GRAPH                         -->
+<!--                      CONTRIBUTION GRAPH                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🐍 My Contribution Graph
@@ -266,36 +260,26 @@ My current learning interests include:
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       PERSONAL VALUES                           -->
+<!--                       DEVELOPER MINDSET                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 💡 My Developer Mindset
 
-<table>
-<tr>
-<td align="center" width="33%">
+<div align="center">
 
-### 📖 Learn
+| 📖 Learn | 🛠️ Practice | 🚀 Improve |
+|---|---|---|
+| Explore new concepts | Apply knowledge | Learn from mistakes |
 
-Always explore new technologies and concepts.
+</div>
 
-</td>
-<td align="center" width="33%">
+### 🔥 Principles I Follow
 
-### 🛠️ Build
-
-Turn ideas into practical projects.
-
-</td>
-<td align="center" width="33%">
-
-### 🚀 Improve
-
-Learn from mistakes and keep growing.
-
-</td>
-</tr>
-</table>
+- **Consistency over perfection**
+- **Understanding over memorization**
+- **Practice over theory alone**
+- **Progress over comparison**
+- **Curiosity over limitation**
 
 ---
 
@@ -328,6 +312,10 @@ I'm always interested in learning, collaborating, discussing technology, and exp
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                            FOOTER                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
