@@ -11,7 +11,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;BCA+Data+Science+Student;Python+%7C+Java+%7C+C+Developer;Frontend+%26+Automation+Enthusiast;Exploring+AI+%26+Data+Analytics;Always+Learning+Something+New!" alt="Typing SVG" />
 
 <p>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://simple-portfolio-gamma-gray.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="www.linkedin.com/in/suryansh-tripathi-5b3384242">
@@ -19,6 +19,10 @@
   </a>
   <a href="suryanshtripathi778@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  </a>
+  <a href="https://www.instagram.com/suryansh_tripathii/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMqf8uj0_nSWn1-0HkGOW-Nwbvcb02G8i2KA8xg8YEQy8ilsk-m6zYqM6d&s=10" alt="Instagram"/>
   </a>
 </p>
 
