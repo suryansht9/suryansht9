@@ -221,15 +221,15 @@ My goal is to strengthen my technical foundation, develop useful solutions, and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=suryansht9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suryansht9&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansht9&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
@@ -257,7 +257,7 @@ My goal is to strengthen my technical foundation, develop useful solutions, and 
 
 <div align="center">
 
-[![Suryansh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Suryansh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suryansht9&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
@@ -297,19 +297,19 @@ I'm always interested in learning, collaborating, discussing technology, and exp
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href=" www.linkedin.com/in/suryansh-tripathi-5b3384242">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://simple-portfolio-gamma-gray.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:suryanshtripathi778@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/suryansht9">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
