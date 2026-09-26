@@ -1,30 +1,38 @@
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         PROFILE HEADER                          -->
+<!--                    SURYANSH TRIPATHI | PROFILE                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# 👋 Hey there, I'm Suryansh Tripathi!
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00BFFF&height=220&section=header&text=Suryansh%20Tripathi&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=BCA%20Data%20Science%20Student%20%7C%20Developer%20%7C%20Tech%20Explorer&descSize=17&descAlignY=55" width="100%" alt="Suryansh Tripathi animated header"/>
 
-### BCA Data Science Student | Developer | Tech Explorer
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile!;BCA+Data+Science+Student;Python+%7C+Java+%7C+C+Developer;Exploring+AI+%26+Machine+Learning;Frontend+%26+Automation+Enthusiast;Always+Learning+Something+New!" alt="Animated introduction"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;BCA+Data+Science+Student;Python+%7C+Java+%7C+C+Developer;Frontend+%26+Automation+Enthusiast;Exploring+AI+%26+Data+Analytics;Always+Learning+Something+New!" alt="Typing SVG" />
+<br/>
 
-<p>
-  <a href="https://simple-portfolio-gamma-gray.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="www.linkedin.com/in/suryansh-tripathi-5b3384242">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="suryanshtripathi778@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  </a>
-  <a href="https://www.instagram.com/suryansh_tripathii/">
-    <img src="https://img.shields.io/badge/Instagram-Connect%20Here-D14836?style=for-the-badge&logo=gmail&logoColor=whit" alt="Instagram"/>
-  </a>
-</p>
+<!-- CONTACT BADGES -->
+<a href="https://simple-portfolio-gamma-gray.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/suryansh-tripathi-5b3384242">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:suryanshtripathi778@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.instagram.com/suryansh_tripathii/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://github.com/suryansht9">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=suryansht9&label=PROFILE%20VIEWS&color=00BFFF&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -65,19 +73,19 @@ I'm currently expanding my knowledge across software development, data analytics
 
 ### 👨‍💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c" alt="Programming Languages"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c" alt="Python Java C"/>
 </p>
 
 ### 🌐 Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Web Development"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML CSS JavaScript React"/>
 </p>
 
 ### 📊 Data Science & Databases
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -86,11 +94,49 @@ I'm currently expanding my knowledge across software development, data analytics
 
 ### ⚙️ Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" alt="Development Tools"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" alt="Git GitHub VS Code Android Studio"/>
+  <br/><br/>
   <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script"/>
   <img src="https://img.shields.io/badge/Automation-6C63FF?style=for-the-badge&logo=robotframework&logoColor=white" alt="Automation"/>
 </p>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    AI & MACHINE LEARNING                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🤖 Exploring AI & Machine Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-7B61FF?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Learning-00BFFF?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Data%20Science-Building%20Foundations-00A86B?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/>
+
+</div>
+
+I'm interested in understanding how data, algorithms, and intelligent systems can be used to solve real-world problems.
+
+### 🔬 Areas I'm Exploring
+
+- 🧠 Artificial Intelligence fundamentals
+- 🤖 Machine Learning concepts
+- 🐍 Python for data science
+- 📊 Data analysis and visualization
+- 🔍 Data preparation and exploration
+- 💡 Practical applications of AI
+
+### 🎯 My Approach
+
+<div align="center">
+
+**Learn** → **Practice** → **Build** → **Evaluate** → **Improve**
+
+</div>
+
+As I develop my knowledge, I aim to apply these concepts through practical projects and experiments.
 
 ---
 
@@ -123,14 +169,14 @@ I'm currently expanding my knowledge across software development, data analytics
 <tr>
 <td width="50%" align="center">
 
-## 🧠 Curious Mind
+### 🧠 Curious Mind
 
 I enjoy understanding how things work and exploring new concepts in technology.
 
 </td>
 <td width="50%" align="center">
 
-## 🔍 Problem Solver
+### 🔍 Problem Solver
 
 I like breaking complex problems into smaller, understandable steps.
 
@@ -140,14 +186,14 @@ I like breaking complex problems into smaller, understandable steps.
 <tr>
 <td width="50%" align="center">
 
-## ⚡ Automation Explorer
+### ⚡ Automation Explorer
 
 I'm interested in using technology to simplify repetitive tasks and improve workflows.
 
 </td>
 <td width="50%" align="center">
 
-## 📖 Continuous Learner
+### 📖 Continuous Learner
 
 I believe consistent learning and practice are the foundation of growth.
 
@@ -157,14 +203,14 @@ I believe consistent learning and practice are the foundation of growth.
 <tr>
 <td width="50%" align="center">
 
-## ✍️ Tech Writer
+### ✍️ Tech Writer
 
 I enjoy exploring and writing about artificial intelligence and technology.
 
 </td>
 <td width="50%" align="center">
 
-## 🤝 Collaboration
+### 🤝 Collaboration
 
 I'm open to learning from others and collaborating on meaningful ideas.
 
@@ -188,28 +234,28 @@ My goal is to strengthen my technical foundation, develop useful solutions, and 
 
 ## 🔭 What I'm Currently Exploring
 
-```text
-🐍 Python                  ███████████████░░░░░
-☕ Java                    ████████████░░░░░░░░
-💻 C                       ████████████░░░░░░░░
-🌐 Web Development         ██████████████░░░░░░
-⚛️ React.js                ██████████░░░░░░░░░░░
-📊 Data Analytics          ███████████░░░░░░░░░
-🤖 AI & Machine Learning   █████████░░░░░░░░░░░░
-⚙️ Automation              ███████████░░░░░░░░░
-📱 Android Development     ████████░░░░░░░░░░░░░
-```
+| Focus | Current Goal |
+|---|---|
+| 🐍 Python | Strengthen programming fundamentals |
+| ☕ Java | Improve object-oriented programming |
+| 💻 C | Strengthen logic and problem-solving |
+| 🌐 Web Development | Build responsive websites |
+| ⚛️ React.js | Learn interactive frontend development |
+| 📊 Data Analytics | Practice data analysis with Python |
+| 🤖 AI & ML | Understand machine learning concepts |
+| ⚙️ Automation | Explore practical workflow automation |
+| 📱 Android | Explore mobile application development |
 
 ### 📌 My Learning Goals
 
-- Strengthen my Python programming skills
-- Understand data analysis workflows
-- Explore artificial intelligence and machine learning
-- Build responsive and interactive websites
-- Improve my React.js knowledge
-- Learn practical automation techniques
-- Improve my Git and GitHub workflow
-- Develop better problem-solving abilities
+- [ ] Strengthen my Python programming skills
+- [ ] Understand data analysis workflows
+- [ ] Explore artificial intelligence and machine learning
+- [ ] Build responsive and interactive websites
+- [ ] Improve my React.js knowledge
+- [ ] Learn practical automation techniques
+- [ ] Improve my Git and GitHub workflow
+- [ ] Develop better problem-solving abilities
 
 ---
 
@@ -221,51 +267,51 @@ My goal is to strengthen my technical foundation, develop useful solutions, and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suryansht9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=suryansht9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Suryansh's GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=suryansht9&theme=tokyonight&hide_border=true" alt="Suryansh's GitHub Streak"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suryansht9&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansht9&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansht9&layout=compact&theme=tokyonight&hide_border=true" alt="Suryansh's Top Languages"/>
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CONTRIBUTION GRAPH                        -->
+<!--                      CONTRIBUTION SNAKE                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🐍 My Contribution Graph
-<h2 align="center">🐍 My GitHub Contribution Snake</h2>
+## 🐍 My GitHub Contribution Snake
 
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/suryansht9/suryansht9/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/suryansht9/suryansht9/output/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/suryansht9/suryansht9/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="100%"
-    />
-  </picture>
-</div>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/suryansht9/suryansht9/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/suryansht9/suryansht9/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/suryansht9/suryansht9/output/github-snake.svg"
+    alt="Suryansh's GitHub contribution snake"
+    width="100%"
+  />
+</picture>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/suryansht9/suryansht9/output/ocean.gif" alt="Animated ocean contribution snake" width="100%"/>
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         GITHUB ACTIVITY                         -->
+<!--                       GITHUB ACTIVITY                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📈 GitHub Activity
@@ -279,7 +325,7 @@ My goal is to strengthen my technical foundation, develop useful solutions, and 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       DEVELOPER MINDSET                        -->
+<!--                       DEVELOPER MINDSET                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 💡 My Developer Mindset
@@ -312,20 +358,20 @@ I'm always interested in learning, collaborating, discussing technology, and exp
 
 <div align="center">
 
-<a href=" www.linkedin.com/in/suryansh-tripathi-5b3384242">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/suryansh-tripathi-5b3384242">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="https://simple-portfolio-gamma-gray.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-
 <a href="mailto:suryanshtripathi778@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
 <a href="https://github.com/suryansht9">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.instagram.com/suryansh_tripathii/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 </div>
@@ -342,6 +388,6 @@ I'm always interested in learning, collaborating, discussing technology, and exp
 
 **Keep learning. Keep building. Keep growing. 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="Animated footer"/>
 
 </div>
