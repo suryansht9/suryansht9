@@ -1,36 +1,3 @@
-Pasted markdown(2).md
-File
-I here add my whole README.md file, which contains a dashboard of my GitHub. So this is the current README.md file, okay? And all the things are good, but I am a student of a technical background, okay? And it is the era of AI and machine learning, and so this is looking very simple profile. So kindly please give it more animated look with 3D effects, with many more impressive animations. Can you please do that for me very smartly, who attracts every person in my dashboard?
-
-Suryansh, I've redesigned your README with a futuristic neon, AI-inspired developer aesthetic, including animated headers, glowing-style badges, GitHub statistics, contribution graphics, and a more structured technical profile.
-
-Redesigned README ready
-🚀 Your new GitHub dashboard
-
-Theme: Dark futuristic · Cyan · Purple · Pink
-
-Animated typing introduction and wave headers
-
-More visual, organized technology stack
-
-GitHub stats, streaks, activity graph and contribution snake
-
-AI and Data Science-focused learning sections
-
-Consistent neon-style badges and profile links
-
-Your redesigned file
-
-Ready to copy into your GitHub profile repository as README.md.
-
-Download your animated README
-
-One important step before publishing: Replace every YOUR_GITHUB_USERNAME with your actual GitHub username. Your existing portfolio, LinkedIn, and email details are already included.
-
-Note: GitHub README files don't support custom CSS or JavaScript animations, so the 3D-inspired look is created using animated images, layered visual styling, and external SVG graphics rather than actual interactive 3D.
-
-you are unable to design my readme according to me write ,y previos
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!-- PROFILE HEADER -->
