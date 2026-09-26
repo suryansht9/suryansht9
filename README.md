@@ -22,7 +22,7 @@
   </a>
   </a>
   <a href="https://www.instagram.com/suryansh_tripathii/">
-    <img src="https://img.shields.io/badge/Instagram%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=whit" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-Connect%20Here-D14836?style=for-the-badge&logo=gmail&logoColor=whit" alt="Instagram"/>
   </a>
 </p>
 
