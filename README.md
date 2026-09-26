@@ -257,7 +257,7 @@ My goal is to strengthen my technical foundation, develop useful solutions, and 
 
 <div align="center">
 
-[![Suryansh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suryansht9&theme=tokyo-night&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Suryansh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suryansht9&theme=tokyo-night&hide_border=true)](https://github.com/suryansht9)
 
 </div>
 
